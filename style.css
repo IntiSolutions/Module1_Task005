@@ -24,7 +24,7 @@
   font-family: "Times New Roman", Times, serif;
   border: 2.5px solid rgba(228, 193, 36, 0.904);
   margin-top: 0px;
-  padding-bottom: 665px;
+  padding-bottom: 630px;
 }
 .mainsection001 p {
   padding-bottom: 10px;
@@ -49,16 +49,14 @@ a:active {
 .ul {
   text-decoration: none;
   padding-top: 10px;
-  margin-top: 0px;
-  margin-left: 0 px;
-  margin-right: 5px;
   padding-left: 10px;
   list-style: none;
   overflow: hidden;
 }
 .ul li {
   float: left;
-  margin-left: 40px;
+  margin:0 auto;
+  width: 24%;
 }
 .ul a {
   display: block;
@@ -67,8 +65,7 @@ a:active {
   padding: 10px 37px;
   color: black;
   background-color: goldenrod;
-  margin-right: 5px;
-  margin-left: 5px;
+  margin-left: 13px;
 }
 .ul a:hover {
   background-color: rgb(71, 170, 13);
@@ -104,7 +101,7 @@ a:active {
   font-family: "Times New Roman", Times, serif;
   border: 2.5px solid rgba(228, 193, 36, 0.904);
   padding-top: 25px;
-  padding-bottom: 65px;
+  padding-bottom: 150px;
 }
 .tekstformatmain002 {
   text-align: justify;
@@ -123,17 +120,16 @@ a:active {
 }
 
 .footersection002 {
+  color: black;
+  font-size: large;
+  font-family: "Times New Roman", Times, serif;
   border: 2.5px solid green;
   margin-bottom: 0px;
   margin-top: 0.5px;
-  padding-top: 20px;
-  padding-bottom: 100px;
+  padding-top: 10px;
+  padding-bottom: 96px;
 }
-
-.footerimage {
-  margin: 0 auto;
-  width: 35%;
-  position: absolute;
-  left: 683px;
-  bottom: 100px;
+.footersection002 h6{
+  margin-top:76px;
+  margin-bottom: -90px;
 }
